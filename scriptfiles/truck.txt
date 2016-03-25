@@ -1,0 +1,35 @@
+truckrp.amx->LoadVehicles->Call
+truckrp.amx->LoadCargos->Call
+truckrp.amx->LoadFrakcje->Call
+truckrp.amx->LoadLoadings->Call
+[Call]OnPlayerConnect ( %d )->Called
+truckrp.amx->LoadVehicles->Call
+truckrp.amx->LoadCargos->Call
+truckrp.amx->LoadFrakcje->Call
+truckrp.amx->LoadLoadings->Call
+[Call]OnPlayerConnect ( %d )->Called
+[Call]OnPlayerConnect ( %d )->Called
+truckrp.amx->LoadVehicles->Call
+truckrp.amx->LoadCargos->Call
+truckrp.amx->LoadFrakcje->Call
+truckrp.amx->LoadLoadings->Call
+truckrp.amx->LoadVehicles->Call
+truckrp.amx->LoadCargos->Call
+truckrp.amx->LoadFrakcje->Call
+truckrp.amx->LoadLoadings->Call
+truckrp.amx->LoadVehicles->Call
+truckrp.amx->LoadCargos->Call
+truckrp.amx->LoadFrakcje->Call
+truckrp.amx->LoadLoadings->Call
+truckrp.amx->LoadVehicles->Call
+truckrp.amx->LoadCargos->Call
+truckrp.amx->LoadFrakcje->Call
+truckrp.amx->LoadLoadings->Call
+truckrp.amx->LoadVehicles->Call
+truckrp.amx->LoadCargos->Call
+truckrp.amx->LoadFrakcje->Call
+truckrp.amx->LoadLoadings->Call
+truckrp.amx->LoadVehicles->Call
+truckrp.amx->LoadCargos->Call
+truckrp.amx->LoadFrakcje->Call
+truckrp.amx->LoadLoadings->Call
