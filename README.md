@@ -1,47 +1,47 @@
 #HardTruck map v3.0
  
-Tak wiêc bez zbêdnego gadania przejdŸmy to systemów, zalet i wszystkiego co z w/w skryptem zwi¹zane:
+Tak wiÄ™c bez zbÄ™dnego gadania przejdÅºmy to systemÃ³w, zalet i wszystkiego co z w/w skryptem zwiÄ…zane:
 Pisany w 100% pod system MySQL Plugin zawarty w paczce.
-System punktów premium i vip'a [PP](*1)
-System dynamicznych pojazdów (*2)
+System punktÃ³w premium i vip'a [PP](*1)
+System dynamicznych pojazdÃ³w (*2)
 System przebieralni w sklepach Binco
-System administratora to chyba standard ale warto wypisaæ
-System kar Ban sta³y/czasowy, warn, kick, blokada konta
-System liderów frakcji pod komend¹ /lider
+System administratora to chyba standard ale warto wypisaÄ‡
+System kar Ban staÅ‚y/czasowy, warn, kick, blokada konta
+System liderÃ³w frakcji pod komendÄ… /lider
 Dynamiczny system firm i frakcji
 Gotowe komendy pod frakcje
 System centrali
-Limit ³adunków (*3)
-System rozwijania prywatnych pojazdów
+Limit Å‚adunkÃ³w (*3)
+System rozwijania prywatnych pojazdÃ³w
 Stacje benzynowe
-System salonów do prywatnych pojazdów
-System spawnu pojazdów dla graczy/firm/frakcji brak rozwalonych po mapie pojazdów
+System salonÃ³w do prywatnych pojazdÃ³w
+System spawnu pojazdÃ³w dla graczy/firm/frakcji brak rozwalonych po mapie pojazdÃ³w
 System prawa jazdy (teoria/praktyka)
-System dokumentów (dowód osobisty, prawo jazdy itp)
-System przeszkód dla pomocy drogowej
+System dokumentÃ³w (dowÃ³d osobisty, prawo jazdy itp)
+System przeszkÃ³d dla pomocy drogowej
  
-(*1) Gracz kupuje Punkty Premium (PP) które nastêpnie mo¿e wydaæ na nowe pojazdy, vip'a itd.
-(*2) Gracz zbiera na nowe pojazdy którymi bêdzie rozwozi³ towary b¹dŸ porusza³ siê po mapie. Nie ma tak zwanych publicznych pojazdów.
-(*3) W centralach jest lista towarów do rozwiezienia ich iloœæ (globalnie). Resetuj¹ siê gdy zostanie rozwieziony ostatni towar.
+(*1) Gracz kupuje Punkty Premium (PP) ktÃ³re nastÄ™pnie moÅ¼e wydaÄ‡ na nowe pojazdy, vip'a itd.
+(*2) Gracz zbiera na nowe pojazdy ktÃ³rymi bÄ™dzie rozwoziÅ‚ towary bÄ…dÅº poruszaÅ‚ siÄ™ po mapie. Nie ma tak zwanych publicznych pojazdÃ³w.
+(*3) W centralach jest lista towarÃ³w do rozwiezienia ich iloÅ›Ä‡ (globalnie). ResetujÄ… siÄ™ gdy zostanie rozwieziony ostatni towar.
  
 ScreenShoty:
 http://imageshack.us/a/img189/5783/samp004oi.png
 http://imageshack.us/a/img268/8421/samp051es.png
 http://imageshack.us/a/img685/4650/samp050xev.png
-Niestety wiêcej nie mam ale je¿eli ktoœ takowe posiada zapraszam do dzielenia siê nimi w odpowiedzi pod tym tematem b¹dŸ podes³aniu mi ich prywatn¹ wiadomoœci¹.
+Niestety wiÄ™cej nie mam ale jeÅ¼eli ktoÅ› takowe posiada zapraszam do dzielenia siÄ™ nimi w odpowiedzi pod tym tematem bÄ…dÅº podesÅ‚aniu mi ich prywatnÄ… wiadomoÅ›ciÄ….
  
 Warunki korzystania z gamemoda:
-Zabrania siê zmiany autora.
-Zabrania siê udostêpniania na innych forach bez mojej wiedzy.
-Pozwalam na zmianê nazwy gamemod'a.
-Pozwalam na edycjê kodu.
+Zabrania siÄ™ zmiany autora.
+Zabrania siÄ™ udostÄ™pniania na innych forach bez mojej wiedzy.
+Pozwalam na zmianÄ™ nazwy gamemod'a.
+Pozwalam na edycjÄ™ kodu.
  
 Download
 http://inferno24.pl/download/HardTruck+map+3.0.rar
  
 Link zaktualizowany: 05-01-2014 14:10
-Dodano include i pluginy niezbêdne do odpalenia serwera na wersji 0.3x
-Podziêkowania dla dawka0202 za podrzucenie potrzebnych plików :)
+Dodano include i pluginy niezbÄ™dne do odpalenia serwera na wersji 0.3x
+PodziÄ™kowania dla dawka0202 za podrzucenie potrzebnych plikÃ³w :)
  
 Dodatkowe linki
 http://www.PTSRP.pl
